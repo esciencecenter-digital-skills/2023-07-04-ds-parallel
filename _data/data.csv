@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor
-NA,"Science Park 402, 1098 XH Amsterdam",NA,52.3566292,4.9568662,"July 04 - 05, 2023",9:30 - 17:00 CEST,2023-07-03T22:00:00Z,2023-07-04T22:00:00Z,"Johan Hidding, Leon Oostrum","Giordano Lipari, Ewan Cahen",ds,ds-parallel,Parallel Programming with Python,2023-07-04-ds-parallel,NA
+"Netherlands eScience Center","Science Park 402, 1098 XH Amsterdam",NA,52.3566292,4.9568662,"July 04 - 05, 2023",9:30 - 17:00 CEST,2023-07-03T22:00:00Z,2023-07-04T22:00:00Z,"Johan Hidding, Leon Oostrum","Giordano Lipari, Ewan Cahen",ds,ds-parallel,Parallel Programming with Python,2023-07-04-ds-parallel,NA
